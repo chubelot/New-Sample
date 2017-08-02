@@ -1,0 +1,6 @@
+    body {
+        padding-top: 70px;        
+    }
+    navbar-fixed-bottom, .navbar-fixed-top {
+    position: relative;
+}
